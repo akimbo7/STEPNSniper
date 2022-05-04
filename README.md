@@ -1,7 +1,15 @@
 # STEPNSniper
 A script made to snipe activation codes from STEPN's discord server.
 
+THIS SCRIPT ONLY WORKS ON MAC.
 
+ - Download the STEPN app from the Mac App Store.
+ - Sign in with your email.
+ - Get the co-ordinates of the box to type the code and the enter button.
+ - Enter the correct co-ordinates on line 11 and 16.
+ - Run the script.
+
+You can change what channel to scrape by changing the discord url in the code.
 
 https://user-images.githubusercontent.com/100610867/166821176-9be3c824-860f-4afd-a03f-95da9316617e.mov
 
