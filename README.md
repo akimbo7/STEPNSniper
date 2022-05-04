@@ -1,7 +1,9 @@
 # STEPNSniper
 A script made to snipe activation codes from STEPN's discord server.
 
-THIS SCRIPT ONLY WORKS ON MAC.
+YOU NEED AN EMULATOR THAT RUNS THE STEPN APP!
+
+If you're on Mac it's pretty easy, just download the STEPN app from the App Store. Any other OS I'd recommend Bluestacks.
 
  - Download the STEPN app from the Mac App Store.
  - Sign in with your email.
