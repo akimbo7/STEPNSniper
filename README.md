@@ -7,7 +7,7 @@ If you're on Mac it's pretty easy, just download the STEPN app from the App Stor
 
  - Download the STEPN app from the Mac App Store.
  - Sign in with your email.
- - Get the co-ordinates of the box to type the code and the enter button.
+ - Get the co-ordinates of the box to type the code and the start button.
  - Enter the correct co-ordinates on line 11 and 16.
  - Run the script.
 
