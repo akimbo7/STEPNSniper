@@ -11,9 +11,9 @@ def try_code(code):
         pyautogui.click(365,444) # CLICKS THE BOX TO ENTER CODE
         # CLICKS TWICE - ONCE TO CHECK THE CURSOR IS ACTUALLY ON THE APP - SECOND TO CLICK BOX
 
-    #pyautogui.write(str(code))
+    pyautogui.write(str(code))
 
-    #pyautogui.click(445,490) # CLICKS THE START BUTTON TO TRY CODE
+    pyautogui.click(445,490) # CLICKS THE START BUTTON TO TRY CODE
 
     print(f'[{Fore.YELLOW} SNIPE {Fore.RESET}] Sniped code: {Fore.YELLOW}{code}{Fore.RESET} - Check app to confirm.')
 
